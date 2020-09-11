@@ -1,3 +1,3 @@
 # hello
 first
-I love :coffee:.
+I love :pizza:, :coffee:.
